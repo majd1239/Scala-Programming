@@ -1,5 +1,5 @@
 /**
-  * Created by Admin on 7/26/17.
+  * Created by Majed Takieddine on 7/26/17.
   */
 class Pouring( Capacity : Vector[Int] ) {
 

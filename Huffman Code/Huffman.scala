@@ -40,7 +40,7 @@ object Huffman {
       }
     }
 
-    timesAcc(chars, Map()).toList // Convert the Map to a list of pairs.
+    timesAcc(chars, Map()).toList 
   }
 
 

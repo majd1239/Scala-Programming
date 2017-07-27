@@ -1,5 +1,5 @@
 /**
-  * Created by Admin on 6/12/17.
+  * Created by Majed Takieddine on 6/12/17.
   */
 import scala.io.Source
 class Translator {

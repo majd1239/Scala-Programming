@@ -2,8 +2,7 @@ Functional Programming in Scala Specialization - École Polytechnique Fédérale
 ---
 
 This repo contains the assignments and projects I completed for the Functional Programming in Scala Specialization 
-offered through [ Coursera - École Polytechnique Fédérale de Lausanne ](https://www.coursera.org/specializations/scala) and tought
-by the great Martin Odersky, the creator of Scala itself!
+offered through [ Coursera - École Polytechnique Fédérale de Lausanne ](https://www.coursera.org/specializations/scala) and tought by the great <b>Martin Odersky</b>, the creator of Scala itself!
 
 ### Course Overview
 

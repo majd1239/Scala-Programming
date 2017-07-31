@@ -8,8 +8,8 @@ This repo contains the assignments and projects I completed for the [ Functional
 | Course | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Course 1] | Functional Programming Principles in Scala - Completed |
-| [Course 2] | Functional Program Design in Scala - In Progress |
-| [Course 3] | Parallel programming |
+| [Course 2] | Functional Program Design in Scala - Completed |
+| [Course 3] | Parallel Programming - In Progress |
 | [Course 4] | Big Data Analysis with Scala and Spark |
 | [Course 4] | Functional Programming in Scala Capstone |
 
